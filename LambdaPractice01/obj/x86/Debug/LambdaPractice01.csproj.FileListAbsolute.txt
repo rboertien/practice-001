@@ -1,0 +1,13 @@
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\bin\Debug\LambdaPractice01.exe
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\bin\Debug\LambdaPractice01.pdb
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\Views\MainWindow.baml
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\Views\MainWindow.g.cs
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\App.g.cs
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\LambdaPractice01_MarkupCompile.cache
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\LambdaPractice01.g.resources
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\LambdaPractice01.Properties.Resources.resources
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\LambdaPractice01.exe
+E:\Git Sources\Projects\LambdaPractice01\LambdaPractice01\obj\x86\Debug\LambdaPractice01.pdb
